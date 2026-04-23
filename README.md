@@ -41,6 +41,17 @@ I am a Front-end Specialist who believes that great code starts with a solid fou
 
 ---
 
+### 🌱 Expanding the Horizon: Go & Backend Systems
+
+While my core expertise is rooted in the Frontend domain, I am currently diving deep into **Go (Golang)** for high-performance backend engineering. 
+
+My interest in Go stems from a desire to master the full lifecycle of a request—from a polished UI to a highly concurrent, memory-efficient service. I am particularly focused on:
+* **Concurrency Patterns:** Leveraging Goroutines and Channels to build non-blocking, scalable services.
+* **Type Safety & Simplicity:** Applying my experience with TypeScript to Go's robust type system for predictable server-side logic.
+* **Microservices & Performance:** Building lightweight APIs that complement modern frontend architectures with minimal overhead and lightning-fast execution.
+
+---
+
 ### 📈 GitHub Statistics
 
 <p align="left">
