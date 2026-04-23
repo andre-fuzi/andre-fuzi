@@ -51,4 +51,6 @@ I am a Front-end Specialist who believes that great code starts with a solid fou
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-fuziyama){:target="_blank"}
+<a href="https://www.linkedin.com/in/andre-fuziyama" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
